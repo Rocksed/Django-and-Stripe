@@ -1,0 +1,20 @@
+[
+    {
+        "model": "djstripe.item",
+        "pk": 1,
+        "fields": {
+            "name": "HP",
+            "description": "Ноутбук",
+            "price": 1000.99
+        }
+    },
+    {
+        "model": "djstripe.item",
+        "pk": 2,
+        "fields": {
+            "name": "Xiaomi",
+            "description": "Телефон",
+            "price": 190.99
+        }
+    }
+]
